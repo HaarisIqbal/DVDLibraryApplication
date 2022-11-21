@@ -1,0 +1,8 @@
+Gladiator,1052000,15,Ridley Scott,DreamWorks,Ridley Scott's Gladiator is an epic film with quotes to match.
+The Lord of the Rings: The Fellowship of the Ring,10122001,13,Peter Jackson,New Line Cinema,10/10
+Jaws 2,1978,12,Steven Spielberg,Universal Pictures, 
+The Proposition,1042015,18,N. Cave,AMG,Excellent
+Arrival,1092016,12,Dennis Villeneuve,FilmNation Entertainment,94% Approval rating on Rotten Tomatoes
+Valhalla Rising,10102016,21,Thorsen,Norway Films,Good.
+One,12121999,18,Terry,HBO,Yuck
+Jaws,1975,12,Steven Spielberg,Universal Pictures, 
